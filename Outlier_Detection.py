@@ -3,6 +3,8 @@
 Created on Thu Oct 26 17:15:23 2017
 
 @author: athir
+
+OUTLIER DETECTION USING CHEBYCHEV'S THEOROM
 """
 
 def get_stats(pro_code):
